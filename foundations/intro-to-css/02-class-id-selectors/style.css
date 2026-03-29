@@ -1,1 +1,29 @@
 /* Add CSS Styling */
+
+.op{
+    background-color: hsl(0, 66%, 74%);
+    font-family:Verdana, DejaVu Sans, sans-serif
+}
+
+
+.op.class1{
+    font-size:40px;
+
+}
+
+#front{
+    color: blue;
+    font-size: 36px;
+}
+
+#front1{
+    background-color:hsl(120, 70%,65%); 
+    font-weight: bold;
+    font-size: 28px;
+}
+
+/* 
+#2{
+    background-color: blueviolet;
+
+} */
